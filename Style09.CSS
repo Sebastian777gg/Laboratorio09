@@ -8,4 +8,5 @@ header{
 nav ul li{
     margin: 30px;
     display: inline;
+    text-align: center;
 }
