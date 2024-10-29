@@ -1,0 +1,11 @@
+header{
+	background-color: #000000;
+	color: black;
+	text-align: center;
+	padding: 1em;
+}
+
+nav ul il{
+    margin: 30px;
+    display: inline;
+}
